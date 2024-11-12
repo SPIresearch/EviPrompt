@@ -15,6 +15,7 @@ If you find this repo helpful, please cite our paper.
   number={},
   pages={6204-6215},
   doi={10.1109/TIP.2024.3482175}}
+```
 
 ## Acknowledgement
 
